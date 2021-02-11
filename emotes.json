@@ -1,33 +1,5 @@
 [
     {
-        "name": "suseyes",
-        "type": ".png"
-    },
-    {
-        "name": "sofunny",
-        "type": ".gif"
-    },
-    {
-        "name": "awesmart",
-        "type": ".gif"
-    },
-    {
-        "name": "dancingpug",
-        "type": ".gif"
-    },
-    {
-        "name": "uff",
-        "type": ".png"
-    },
-    {
-        "name": "floshed",
-        "type": ".png"
-    },
-    {
-        "name": "hyperpog",
-        "type": ".gif"
-    },
-    {
         "name": "catjam",
         "type": ".gif"
     },
@@ -313,38 +285,6 @@
     },
     {
         "name": "02salute",
-        "type": ".png"
-    },
-    {
-        "name": "noice",
-        "type": ".png"
-    },
-    {
-        "name": "dancingalien",
-        "type": ".gif"
-    },
-    {
-        "name": "pleasehelp",
-        "type": ".png"
-    },
-    {
-        "name": "boi",
-        "type": ".gif"
-    },
-    {
-        "name": "bananime",
-        "type": ".gif"
-    },
-    {
-        "name": "headsmash",
-        "type": ".gif"
-    },
-    {
-        "name": "thonksweat",
-        "type": ".png"
-    },
-    {
-        "name": "peepocringe",
         "type": ".png"
     }
 ]
