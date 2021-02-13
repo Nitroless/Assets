@@ -386,6 +386,10 @@
     {
         "name": "hehe",
         "type": ".png"
+    },
+    {
+        "name": "sad",
+        "type": ".png"
     }
 ]
 
