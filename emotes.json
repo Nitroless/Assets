@@ -388,7 +388,91 @@
         "type": ".png"
     },
     {
-        "name": "sad",
+        "name": "how",
+        "type": ".png"
+    },
+    {
+        "name": "disassociate",
+        "type": ".png"
+    },
+    {
+        "name": "mochaping",
+        "type": ".gif"
+    },
+    {
+        "name": "02darlingwtf",
+        "type": ".png"
+    },
+    {
+        "name": "02darling",
+        "type": ".gif"
+    },
+    {
+        "name": "02dead",
+        "type": ".gif"
+    },
+    {
+        "name": "catwhy",
+        "type": ".gif"
+    },
+    {
+        "name": "sus",
+        "type": ".png"
+    },
+    {
+        "name": "siren",
+        "type": ".gif"
+    },
+    {
+        "name": "pls",
+        "type": ".png"
+    },
+    {
+        "name": "peeporun",
+        "type": ".gif"
+    },
+    {
+        "name": "areyousureaboutthat",
+        "type": ".gif"
+    },
+    {
+        "name": "clap",
+        "type": ".gif"
+    },
+    {
+        "name": "discordloading",
+        "type": ".gif"
+    },
+    {
+        "name": "deadaf",
+        "type": ".gif"
+    },
+    {
+        "name": "monkafroW",
+        "type": ".png"
+    },
+    {
+        "name": "dead",
+        "type": ".png"
+    },
+    {
+        "name": "gamerrage",
+        "type": ".gif"
+    },
+    {
+        "name": "winnin",
+        "type": ".png"
+    },
+    {
+        "name": "void",
+        "type": ".gif"
+    },
+    {
+        "name": "peepobabybottle",
+        "type": ".gif"
+    },
+    {
+        "name": "02sad",
         "type": ".png"
     }
 ]
